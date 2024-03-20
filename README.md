@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yashaswini CN</h1>
 <h3 align="center">Frontend developer fueled by passion, in India</h3>
-
+<div align="center"> <img src="https://raw.githubusercontent.com/bgjcuyg/bgjcuyg/main/Yashaswini CN.png"> </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bgjcuyg&label=Profile%20views&color=0e75b6&style=flat" alt="bgjcuyg" /> </p>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **React JS**    
 
 - 👨‍💻 All of my projects are available at [https://bgjcuyg.github.io/dark_Portfolio/](https://bgjcuyg.github.io/dark_Portfolio/)
 
