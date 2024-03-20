@@ -2,7 +2,7 @@
 <h3 align="center">Frontend developer fueled by passion, in India</h3>
 <div align="center"> <img src="https://raw.githubusercontent.com/bgjcuyg/bgjcuyg/main/Yashaswini CN.png"> </div>
 <h3 align="center">As a frontend developer from India, I love building beautiful and user-friendly websites. I'm passionate about making the web a better place, one line of code at a time.</h3>
-<img align="right" alt="Coding" width="400" src="https://iconscout.com/lottie-animation/female-web-developer-4563721">
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/JXA0.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bgjcuyg&label=Profile%20views&color=0e75b6&style=flat" alt="bgjcuyg" /> </p>
 
 - 🌱 I’m currently learning **React JS**    
